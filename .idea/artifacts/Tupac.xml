@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Tupac">
+    <output-path>$PROJECT_DIR$/classes/artifacts/Tupac</output-path>
+    <root id="root">
+      <element id="archive" name="Tupac.jar">
+        <element id="module-output" name="Tupac" />
+      </element>
+    </root>
+  </artifact>
+</component>

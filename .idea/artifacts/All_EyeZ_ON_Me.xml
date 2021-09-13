@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="All EyeZ ON Me">
+    <output-path>$PROJECT_DIR$/classes/artifacts/All_EyeZ_ON_Me</output-path>
+    <root id="archive" name="All EyeZ ON Me.war" />
+  </artifact>
+</component>
